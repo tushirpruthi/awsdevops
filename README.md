@@ -1,2 +1,2 @@
 # code-deploy-udemy
-This repository contains all the resources used in the Udemy course.
+This repository contains all the resources used in YouTube Tutorials.
